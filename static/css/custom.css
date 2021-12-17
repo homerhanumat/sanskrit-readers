@@ -1,0 +1,12 @@
+body {
+  font-size: 24px !important;
+  color: #323232 !important;
+}
+
+#header > h3 {
+  color:  yellow;
+}
+
+div[data-tab-item="devanagari"] {
+  font-size: 35px !important;
+}
